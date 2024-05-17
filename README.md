@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... Email: emmanuelbiegon@gmail.com or WhatsApp/Call +254727472889
 - 😄 Pronouns:... He/Him
-- ⚡ Fun fact:... I love knots. Your regular boyscout!
+- ⚡ Fun fact:... I love knots. I'm your regular boyscout!
 
 <!---
 iManuhK/iManuhK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
