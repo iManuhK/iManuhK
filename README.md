@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Kipyegon
 - 😄 Pronouns:... He/Him
-- 👀 I’m interested in ERPs, Full-Stack web development
+- 👀 I’m interested in ERPs, Full-Stack development
 - Python, Golang, Flask, React, JAVASCRIPT, HTML/CSS
 - 🌱 I’m currently learning back end technologies
 - 📫 How to reach me... Email: emmanuelbiegon@gmail.com or WhatsApp/Call +254727472889
