@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Emmanuel Kipyegon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... Email: emmanuelbiegon@gmail.com or WhatsApp/Call +254727472889
 - 😄 Pronouns:... He/Him
+- 👀 I’m interested in ERPs, Full-Stack web development
+- Python, Golang, Flask, React, JAVASCRIPT, HTML/CSS
+- 🌱 I’m currently learning back end technologies
+- 📫 How to reach me... Email: emmanuelbiegon@gmail.com or WhatsApp/Call +254727472889
 - ⚡ Fun fact:... I love knots. I'm your regular boyscout!
 
 <!---
